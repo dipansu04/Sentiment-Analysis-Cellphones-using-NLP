@@ -68,7 +68,3 @@ We trained a **Multinomial Naive Bayes** classifier. Here is the impact of our o
 * **NLP:** NLTK (WordNetLemmatizer, Stopwords)
 
 ---
-
-
-### 👨‍💻 Author
-* **[Your Name]** - *Data Scientist & ML Engineer*
